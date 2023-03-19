@@ -1,5 +1,10 @@
 A collection of developer resources I've found useful
 
+## Contents
+* [Go](#go)
+* [Protobuf](#protobuf)
+* [Other lists](#other-lists)
+
 ## Go
 * [golang-set](https://github.com/deckarep/golang-set) - A simple generic set type for the Go language.
 * [lo](https://github.com/samber/lo) - A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...).
