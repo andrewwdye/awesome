@@ -8,3 +8,6 @@ A collection of developer resources I've found useful
 
 ## Protobuf
 * [buf](https://github.com/bufbuild) - Tools for creating and working with protocol buffers.
+
+## Other lists
+* [awesome](https://github.com/sindresorhus/awesome) - Awesome lists.
